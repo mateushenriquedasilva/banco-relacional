@@ -9,3 +9,6 @@ create table estados (
     UNIQUE (nome),
     UNIQUE (sigla)
 );
+
+-- create: criar
+-- drop -: deletar
